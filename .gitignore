@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# virtualenv
+.venv
+
+# pyenv
+.python-version
+
+# dotenv
+.env
+
+.DS_Store
+*.sqlite3
+media/
+*.pyc
+*.db
+*.pid
+.vscode
